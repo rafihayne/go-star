@@ -1,2 +1,2 @@
 # go-star
-Figured i'd try it in go.
+see: https://github.com/rafihayne/ch instead
